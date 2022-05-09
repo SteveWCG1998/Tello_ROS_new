@@ -1,2 +1,3 @@
 5/9/2022
-try flock code can apply on tello
+try flock code can apply on tello-5.00 pm
+flock temperily fail and try to make sure tello can be controled by vm---7.43 pm 
