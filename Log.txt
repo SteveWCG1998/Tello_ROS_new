@@ -2,3 +2,6 @@
 try flock code can apply on tello-5.00 pm
 flock temperily fail and try to make sure tello can be controled by vm---7.43 pm 
 identify that no state packet receive from tello(package delay)----10.46pm
+
+5/10/2022
+try to fix this problem and continue--12pm
