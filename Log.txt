@@ -10,5 +10,6 @@ up to now have tried:               --12pm
     pf.conf change
     upgrade to python3.8
     upgrade to djitellopy2
+    upgrade firmware
     
     
