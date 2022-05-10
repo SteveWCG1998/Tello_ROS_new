@@ -12,4 +12,6 @@ up to now have tried:               --12pm
     upgrade to djitellopy2
     upgrade firmware
     
+try new system--1.36pm
+    
     
