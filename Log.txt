@@ -7,11 +7,21 @@ identify that no state packet receive from tello(package delay)----10.46pm
 try to fix this problem and continue--11am
 up to now have tried:               --12pm
     open udp port
+    change NAT to bridge
     pf.conf change
     upgrade to python3.8
     upgrade to djitellopy2
     upgrade firmware
     
 try new system--1.36pm
+WSL failed (same error type no state packet) --7pm
+try Mac Os & windows PC and succeed.the problem is existed in udp communication.
+change the NAT and bridge again and turn off firewall   failed
+noticed from a post on stackflow said virtualbox's terrible bridge design may be the reason
+change virtualbox to vmware and problem solved ---10pm
+
+5/11/2022
+try new system which is with bash file--10.30am
+
     
     
