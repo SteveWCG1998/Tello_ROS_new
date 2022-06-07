@@ -1,0 +1,2 @@
+6/7
+TelloPy still have the same problem that couldn't get image from Tello.
